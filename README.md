@@ -1,9 +1,9 @@
 #React Native
 
-v.1
-_it sucks_
+v.1  
+_it sucks_  
 
-Getting an app running:
+Getting an app running:  
 _have you got android studio?_  
 _have you got a compatible JDK?_  
 _have you got KVM enabled in your bios for android emulation?_  
@@ -14,7 +14,7 @@ _have you got your virtual android device running?_
 
 *START*  
 
-Get watchman - it's not a _recommended_ addon (FU Facebook for wasting an hour of my time) it is a dependency.
+Get watchman - it's not a _recommended_ add-on it is a *dependency* (FU Facebook for wasting an hour of my time).
 
 Build from source:
 ```
