@@ -7,6 +7,9 @@ Getting an app running:
 _have you got android studio?_  
 _have you got a compatible JDK?_  
 _have you got KVM enabled in your bios for android emulation?_  
+```
+dnf -y install qemu-kvm libvirt virt-install bridge-utils #for fedora
+```
 _have you got a virtual android device configured?_  
 _is it running Android 7?_  
 _have you got your virtual android device running?_  
